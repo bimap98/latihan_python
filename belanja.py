@@ -1,0 +1,8 @@
+a = int(input("Harga ayam per ekor: "))
+b = int(input("Berapa ekor ayam?: "))
+c = int(input("Harga bebek per ekor: "))
+d = int(input("Berapa ekor bebek?: "))
+e = int(input("Harga ikan mujair per ekor: "))
+f = int(input("Berapa ekor ikan mujair?: "))
+totalan = print("Total belanja sebesar: Rp",((a*b)+(c*d)+(e*f)))
+print(type(totalan))
