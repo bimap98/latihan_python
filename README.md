@@ -1,2 +1,2 @@
 # latihan_python
-latihan saja
+Sourcecode latihan python
