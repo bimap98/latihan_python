@@ -5,10 +5,19 @@ for a in buah:
     else:
         print("Tidak ada melon")    
 
-print(30*"#")
+print(40*"#")
 
 for b in range(0,8):
     if buah[b] == "Melon":
         print("Ada melon")
     else:
         print("Tidak ada melon")
+
+print(40*"$")
+
+for b in range(len(buah)):
+    if buah[b] == "Melon":
+        print("Ada melon")
+    else:
+        print("Tidak ada melon")
+
